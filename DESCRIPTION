@@ -1,0 +1,11 @@
+Package: semantic
+Title: Sentiment analysis of fantasy novels
+Version: 0.0.0.9000
+Authors@R: 
+    person("Biying", "Huang", , "biying.huang@ki.se", role = c("aut", "cre"))
+Description: The package analyses texts from known novels by identifying
+    positive and negative words, resulting in a sentiment score.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
