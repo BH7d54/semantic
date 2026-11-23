@@ -10,7 +10,7 @@
 #' words, negative words, sentiment ratio and classification
 #'
 #' @examples
-#' # sentiment_ratio("bran.txt")
+#' sentiment_ratio("bran.txt")
 #'
 #' @export
 

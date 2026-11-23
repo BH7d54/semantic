@@ -18,6 +18,6 @@ Reads and preprocesses a diary, identifies positive
 and negative words, and calculates a sentiment ratio.
 }
 \examples{
-# sentiment_ratio("bran.txt")
+sentiment_ratio("bran.txt")
 
 }
